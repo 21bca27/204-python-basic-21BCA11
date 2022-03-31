@@ -6,3 +6,4 @@ for a in range(1,i+1):
         n=n+1
     print()
     
+    
